@@ -29,11 +29,11 @@ Retail Transaction Dashboard is a data visualization project that presents insig
   These indicators provide a high-level overview of sales performance, profitability, and customer purchasing behavior.
 
 
-## B. Business questions
+## B. Business Questions 📌
 This dashboard answers several key business questions, including:
 
-- How does sales revenue change over time?
-- Which product categories generate the highest revenue and profit?
-- What payment methods are most frequently used?
-- Which categories have the highest sales quantity?
+- How is the overall transaction performance of the business in terms of revenue, profit, and number of orders?
+- How does sales performance change over time (monthly trend)?
+- Which payment methods contribute the most to revenue and transaction volume?
+- Which product categories generate the highest revenue and quantity sold?
 - How does profit compare to revenue across categories?
