@@ -37,3 +37,6 @@ This dashboard answers several key business questions, including:
 - Which payment methods contribute the most to revenue and transaction volume?
 - Which product categories generate the highest revenue and quantity sold?
 - How does profit compare to revenue across categories?
+
+## C. Insight
+- Total revenue reached $8.7B with a total profit of $2.0B from 5,764 orders, indicating that the business has a fairly healthy profit margin.
