@@ -39,8 +39,8 @@ This dashboard answers several key business questions, including:
 - How does profit compare to revenue across categories?
 
 ## C. Insight 💡
-- Total revenue reached $8.7B with a total profit of $2.0B from 5,764 orders, indicating that the business has a fairly healthy profit margin.
-- Sales fluctuated, with the highest peak occurring around mid to late 2022, then declining sharply towards the end of the period.
-- COD and Pay Axis payment methods dominate both in terms of the number of transactions and revenue.
-- The Mobiles & Tablets category generated the highest revenue and quantity compared to other categories.
-- Some categories have high revenue but relatively lower profits (e.g. Entertainment & Computing).
+- Total revenue reached $8.7B with a total profit of $2.0B from 5,764 orders, indicating that the business operates with a relatively healthy profit margin and a sustainable revenue model.
+- Sales fluctuated, with the highest peak occurring around mid to late 2022, followed by a sharp decline towards the end of the period, suggesting potential seasonality or the impact of external factors.
+- COD and Pay Axis payment methods dominate both in transaction volume and revenue, indicating strong customer preference toward these payment options.
+- The Mobiles & Tablets category generated the highest revenue and quantity, making it the core driver of overall business performance.
+- Some categories, such as Entertainment and Computing, show high revenue but relatively lower profit, indicating lower profit margins possibly due to higher costs or aggressive discounting.
