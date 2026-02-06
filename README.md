@@ -38,5 +38,9 @@ This dashboard answers several key business questions, including:
 - Which product categories generate the highest revenue and quantity sold?
 - How does profit compare to revenue across categories?
 
-## C. Insight
+## C. Insight 💡
 - Total revenue reached $8.7B with a total profit of $2.0B from 5,764 orders, indicating that the business has a fairly healthy profit margin.
+- Sales fluctuated, with the highest peak occurring around mid to late 2022, then declining sharply towards the end of the period.
+- COD and Pay Axis payment methods dominate both in terms of the number of transactions and revenue.
+- The Mobiles & Tablets category generated the highest revenue and quantity compared to other categories.
+- Some categories have high revenue but relatively lower profits (e.g. Entertainment & Computing).
