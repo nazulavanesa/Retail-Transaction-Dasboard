@@ -52,4 +52,5 @@ This dashboard answers several key business questions, including:
 - Review pricing and discount strategies for low-margin categories to improve profitability.
 
 ## Dashboard Preview
-![Dashboard Preview](Dasboard.jpg)
+![Dashboard](dashboard/Dasboard.jpg)
+
