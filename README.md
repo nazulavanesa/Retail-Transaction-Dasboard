@@ -51,6 +51,6 @@ This dashboard answers several key business questions, including:
 - Allocate more marketing budget to Mobiles & Tablets and expand related product bundles to maximize revenue.
 - Review pricing and discount strategies for low-margin categories to improve profitability.
 
-## Dashboard Preview
+## E. Dashboard Preview
 ![Dashboard](dashboard/Dasboard.jpg)
 
