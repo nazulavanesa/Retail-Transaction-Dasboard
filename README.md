@@ -28,7 +28,6 @@ Retail Transaction Dashboard is a data visualization project that presents insig
     
   These indicators provide a high-level overview of sales performance, profitability, and customer purchasing behavior.
 
-
 ## B. Business Questions 📌
 This dashboard answers several key business questions, including:
 
@@ -44,3 +43,7 @@ This dashboard answers several key business questions, including:
 - COD and Pay Axis payment methods dominate both in transaction volume and revenue, indicating strong customer preference toward these payment options.
 - The Mobiles & Tablets category generated the highest revenue and quantity, making it the core driver of overall business performance.
 - Some categories, such as Entertainment and Computing, show high revenue but relatively lower profit, indicating lower profit margins possibly due to higher costs or aggressive discounting.
+
+## D. Recommendations 🔥
+- Maintain current pricing strategies while focusing on cost efficiency to further increase profit margins.
+- 
