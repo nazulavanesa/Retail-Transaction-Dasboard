@@ -50,3 +50,6 @@ This dashboard answers several key business questions, including:
 - Prioritize and optimize COD and Pay Axis payment flows while offering incentives to encourage adoption of underused payment methods.
 - Allocate more marketing budget to Mobiles & Tablets and expand related product bundles to maximize revenue.
 - Review pricing and discount strategies for low-margin categories to improve profitability.
+
+## Dashboard Preview
+![Dashboard Preview](dDasboard.jpg)
