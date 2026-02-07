@@ -60,6 +60,6 @@ This project demonstrates how retail transaction data can be transformed into me
 The dashboard helps identify sales trends, top-performing categories, and customer behavior, which can support better business decision-making.  
 Through this project, I practiced data cleaning, KPI analysis, and data visualization using Excel and Looker Studio.
 
-## G. Dashboard Preview
+## Dashboard Preview
 ![Dashboard](dashboard/Dasboard.jpg)
 
