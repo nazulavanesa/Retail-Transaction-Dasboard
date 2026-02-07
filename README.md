@@ -46,4 +46,7 @@ This dashboard answers several key business questions, including:
 
 ## D. Recommendations 🔥
 - Maintain current pricing strategies while focusing on cost efficiency to further increase profit margins.
-- 
+- Implement targeted promotional campaigns during low-sales periods to stabilize revenue and reduce seasonal impact.
+- Prioritize and optimize COD and Pay Axis payment flows while offering incentives to encourage adoption of underused payment methods.
+- Allocate more marketing budget to Mobiles & Tablets and expand related product bundles to maximize revenue.
+- Review pricing and discount strategies for low-margin categories to improve profitability.
