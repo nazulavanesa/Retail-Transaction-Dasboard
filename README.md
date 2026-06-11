@@ -63,3 +63,5 @@ Through this project, I practiced data cleaning, KPI analysis, and data visualiz
 ## Dashboard Preview
 ![Dashboard](dashboard/Dasboard.jpg)
 
+## Live Dashboard
+https://datastudio.google.com/reporting/73408560-9670-4c26-a9f3-fc821ad549c0/page/mxylF
